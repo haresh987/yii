@@ -1,2 +1,2 @@
 # yii
-yii_description
+yii_Basic
